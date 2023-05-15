@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [The_Electric_Schoolhouse (blog & E-commerce)](https://github.com/moussafia/The_Electric_Schoolhouse)
+- 🔭 I’m currently working on [The_Electric_Schoolhouse (blog & E-commerce)](https://github.com/moussafia/The_Electric_Schoolhouse-)
 
 - 🌱 I’m currently learning **Laravel,VUE JS**
 
