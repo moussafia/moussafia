@@ -77,9 +77,8 @@
 
 ### 📜 Certifications
 
-- ☕ **Oracle Certified Professional — Java SE 17** (2024)
-- ☁️ **AWS Certified Cloud Practitioner** (2024)
-- 🔄 **Scrum Fundamentals Certified — SFC** (2023)
+- ☕ **Oracle Certified Professional — Java SE 17** (2026)
+- ☕ **Oracle Certified Professional — Java SE 21** (2026)
 
 ---
 
